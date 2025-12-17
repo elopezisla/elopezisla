@@ -1,5 +1,10 @@
-## Hi there 👋
+👋 Hola, soy ESTIBALIZ LOPEZ
+---
+# 💻 Desarrolladora Full-Stack Junior desde Bilbao
 
+**[LinkedIn](https://www.linkedin.com/in/estibaliz-lopez-isla/)** | **[Email](elopezisla@gmail.com)**
+
+---
 <!--
 **elopezisla/elopezisla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
