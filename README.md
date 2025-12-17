@@ -1,8 +1,8 @@
 
 <h1 align="center">👋 Hola, soy ESTIBALIZ LOPEZ</h1>
-<h3 align="center">💻 Desarrolladora Web Full-Stack Junior</h3>
+<h2 align="center">💻 Desarrolladora Web Full-Stack Junior</h2>
 
----
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/estibaliz-lopez-isla/">
@@ -22,23 +22,8 @@
   <img src="https://img.shields.io/badge/📍-Vizcaya-FFD700?style=for-the-badge" alt="Ubicación" />
   <img src="https://img.shields.io/badge/🎯-Creciendo%20profesionalmente-FF69B4?style=for-the-badge" alt="Objetivo" />
 </p>
-<br>
-
-<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elopezisla&show_icons=true&theme=radical" alt="Estadísticas" /></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elopezisla&layout=compact&theme=radical" alt="Lenguajes más usados" /> </p>-->
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elopezisla&show_icons=true&bg_color=0d1117&title_color=4169E1&icon_color=FF69B4&text_color=FFFFFF" alt="Estadísticas" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elopezisla&layout=compact&bg_color=0d1117&title_color=00FFFF&text_color=4169E1" alt="Lenguajes más usados" />
-</p>
-
-
-
-
-
----
 ## 🚀 Sobre Mí
 ```javascript
 
@@ -58,4 +43,22 @@ function mostrarSobreMi() {
 
 mostrarSobreMi();
 ```
+
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elopezisla&show_icons=true&theme=radical" alt="Estadísticas" /></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elopezisla&layout=compact&theme=radical" alt="Lenguajes más usados" /> </p>-->
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elopezisla&show_icons=true&bg_color=0d1117&title_color=4169E1&icon_color=FF69B4&text_color=FFFFFF" alt="Estadísticas" />
+</p> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elopezisla&layout=compact&bg_color=0d1117&title_color=00FFFF&text_color=4169E1" alt="Lenguajes más usados" />
+</p>
+
+
+
+
+
+
+
+
 
