@@ -48,10 +48,10 @@ mostrarSobreMi();
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elopezisla&show_icons=true&bg_color=0d1117&title_color=4169E1&icon_color=FF69B4&text_color=FFFFFF" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elopezisla&show_icons=true&bg_color=0d1117&title_color=4169E1&icon_color=FF69B4&text_color=FFFFFF&cache_seconds=300" alt="Estadísticas" />
 </p> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elopezisla&layout=compact&bg_color=0d1117&title_color=00FFFF&text_color=4169E1" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elopezisla&layout=compact&bg_color=0d1117&title_color=00FFFF&text_color=4169E1&cache_seconds=300" alt="Lenguajes más usados" />
 </p>
 
 
