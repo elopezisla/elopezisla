@@ -35,7 +35,7 @@ const sobreMi = {
 };
 
 function mostrarSobreMi() {
-  console.log(`🎓 Formación:  ${sobreMi.formación}`);
+  console.log(`🎓 Formación: ${sobreMi.formación}`);
   console.log(`🚀 Perfil: ${sobreMi.perfil}`);
   console.log(`💻 Stack: ${sobreMi.stack}`);
   console.log(`🗣️ Inglés: ${sobreMi.ingles}`);
